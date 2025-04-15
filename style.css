@@ -44,7 +44,7 @@
                     height: 175px;
                     border: 0px;
                     color: #bf5c2a;
-                    background-color: #c2c1c1;
+                    background-color: yellow; /* Changed to yellow */
                     border-radius: 8px;
             }
             #banner h1 {
@@ -206,7 +206,7 @@
                 height: 20px;
                 color: #333;
                 font-size: 12px;
-                background: #c2c1c1;
+                background: yellow; /* Changed to yellow */
                 clear: both;
                 border-radius: 8px;
             }
