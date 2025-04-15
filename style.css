@@ -43,8 +43,8 @@
                     padding: 10px;
                     height: 175px;
                     border: 0px;
-                    color: #ffdc3e;
-                    background-color: #c2c1c1;
+                    color: white;
+                    background-color: yellow;
                     border-radius: 8px;
             }
             #banner h1 {
@@ -206,7 +206,7 @@
                 height: 20px;
                 color: #333;
                 font-size: 12px;
-                background: #ffdc3e;
+                background: yellow;
                 clear: both;
                 border-radius: 8px;
             }
